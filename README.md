@@ -1,5 +1,5 @@
 # My personal tech reading list
-A collection of blogs, articles and books that I enjoy reading in my spare time. Everything will be more or less techno-centric, but I hope to include different materials as well.
+A collection of blogs, articles and books that I enjoy reading in my spare time. Everything will be more or less techno-centric, but I hope to include different topics as well.
 
 *I'll try to update this list from time to time, but feel free to propose any good resource by opening an issue.*
 
